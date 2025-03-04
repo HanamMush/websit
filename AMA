@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Awad Contracting EST</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0A1E41;
+            color: white;
+        }
+        nav {
+            background: #204fa1;
+            padding: 30px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        .navbar-dark {
+      background-color: #242fcc; 
+      padding: 20px;
+      position: fixed;
+      width: 100%;
+      top: 0;
+      left: 0;
+      z-index: 100;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .navbar-dark a {
+      color: #fff;
+      margin: 0 30px;
+      text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: color 0.3s ease, padding-bottom 0.3s ease;
+    }
+
+    .navbar-dark a:hover {
+      color: #f1c40f; /* Yellow gold accent */
+      padding-bottom: 5px;
+      border-bottom: 3px solid #f1c40f;
+    }
+
+    .navbar-dark {
+        font-size: 1rem;
+      }
+        .hero {
+            text-align: center;
+            padding: 50px;
+            background: #0A1E41;
+        }
+        .hero img {
+            width: 200px;
+        }
+        .hero h1 {
+            color: #FFD700;
+        }
+        .benefits, .reviews {
+            padding: 40px;
+            text-align: center;
+        }
+        .benefits h2, .reviews h2 {
+            color: #FFD700;
+        } 
+        .home {
+            padding: 40px;
+            text-align: center;
+        }
+        .home h2 {
+            color: #FFD700;
+        }
+        .services {
+            padding: 40px;
+            text-align: center;
+        }
+        .services h2 {
+            color: #FFD700;
+        }
+        .About {
+        padding: 40px;
+        text-align: center;
+        }
+        .About h2 {
+            color: #FFD700;
+        }
+        .Contact {
+        padding: 40px;
+        text-align: center;
+        }
+        .Contact h2 {
+        color: #FFD700;   
+        }
+        .footer {
+            background: #FFD700;
+            color: #0A1E41;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <img src="LOGO2.0/10 (1).png" alt="logo" style="width:40px;" align = "left">
+        <a href="#home" class="nav-link px-2 link-secondary">home</a> 
+        <a href="#services" class="nav-link px-2 link-secondary">services</a>
+        <a href="#About" class="nav-link px-2 link-secondary">About</a> 
+        <a href="#Contact" class="nav-link px-2 link-secondary">Contact</a> 
+    </nav>
+    
+    <div class="hero">
+        <h1>We Redefine Steel & Fabrication</h1>
+        <p>With innovation and craftsmanship for a stronger future.</p>
+    </div>
+    
+    <div class="benefits">
+        <h2>Why Choose AMA?</h2>
+        <p>✔ Steel Fabrication Works</p>
+        <p>✔ Custom Fabrication & Structural Engineering</p>
+        <p>✔ Industrial Installations & On-Site Welding Services</p>
+        <p>✔ High-Quality Craftsmanship & Reliable Services</p>
+    </div>
+<section id="home">
+    <div class="home">
+        <h2>Welcome to Mohammad Awad Contracting EST</h2>
+        <p>Your trusted partner in steel fabrication, structural engineering, and industrial installations.</p>
+        <p>Delivering top-quality craftsmanship with precision and reliability.</p>
+    </div>
+    </section>
+    <section id ="services">
+        <div class = "services">
+            <h2>Our Services</h2>
+            <p>At AMA, we specialize in a wide range of steel fabrication and construction solutions, including:</p>
+            <p>✔ Steel Fabrication Works - High-quality steel components for various applications.</p>
+            <p>✔ Custom Fabrication - Tailored metal solutions to meet your specific requirements.</p>
+            <p>✔ Structural Engineering - Expert planning and design for durable steel structures.</p>
+            <p>✔ Industrial Installations - Professional installation services for industrial projects.</p>
+            <p>✔ On-Site Installation & Welding Services - Reliable and efficient welding and assembly solutions.</p>
+            <p>✔ Structural Steel Fabrications - Precision manufacturing of steel frameworks and components.</p>
+        </div>
+        </section>
+        <section id="About" >
+         <div class="About">
+            <h2>About Us</h2>
+            <p>Mohammad Awad Contracting EST (AMA) is a leading provider of steel fabrication and structural engineering solutions.</p>
+            <p>With years of experience, we are committed to delivering high-quality, customized steel and metal works to meet diverse industry needs.</p>
+            <p>Our team of skilled professionals ensures innovation, precision, and reliability in every project we undertake.</p>
+            <p>We take pride in our craftsmanship, advanced technology, and dedication to customer satisfaction.</p>
+         </div>
+         <section id="Contact"> 
+        <div class="Contact">
+            <h2>Contact Us</h2>
+            <p>We’d love to hear from you! Reach out to us for any inquiries or project discussions.</p>
+            <p>📧 Email: mohamedawadaljuma@outlook.com</p>
+            <p>📞 Phone:+966 50 985 157 </p>
+            <p>📍 Address: p.o.Box 275398 Riyadh 11314</p>
+            <p>Follow us on social media for updates and more.</p>
+        </div>
+    </section>
+        <div class="reviews">
+        <h2>What Our Clients Say</h2>
+        <p>⭐⭐⭐⭐⭐ "Top-notch service and quality!" - Client A</p>
+        <p>⭐⭐⭐⭐⭐ "Highly recommend for any steel work!" - Client B</p>
+    </div>
+    
+    <div class="footer">
+        <p>Contact us: mohamedawadaljuma@outlook.com | +966 50 985 157,
+            +966 54 004 0794</p>
+        <p>Follow us on social media
+            <a href="https://www.instagram.com/mohammad_awad_contracting_est/" target=" _blank">
+                <i class="fab fa-instagram"></i> Follow Us on instagram
+                </a>
+
+            <br><a href="https://www.tiktok.com/@mohamed.awad.contracting/" target=" _blank">
+                <i class="fab fa-Tiktok"></i> Follow Us on Tiktok
+            </a> </br>
+        </p>
+    </div>
+</body>
+</html>
